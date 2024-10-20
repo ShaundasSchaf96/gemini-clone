@@ -1,6 +1,16 @@
 In Progress !
 =============
 
+Requirements
+------------
+In order to use Gemini API you first need to create your own API key. Visit: [https://ai.google.dev/]
+
+In the project root create an .env file with the following content:
+
+```	
+REACT_APP_GEMINI_API_KEY=YOUR_API_KEY
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
